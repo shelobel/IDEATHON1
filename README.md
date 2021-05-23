@@ -1,2 +1,2 @@
-# IDEATHON1
+# ShoppingCart
 Ideathon website
